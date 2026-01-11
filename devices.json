@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "devices": {
+    "00000001": {
+      "name": "TenzoSim v1",
+      "description": "Strain gauge simulator",
+      "image": "images/00000001.png"
+    }
+  }
+}
